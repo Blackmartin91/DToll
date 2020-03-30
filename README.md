@@ -1,8 +1,4 @@
 # DToll
-Gépi Látás: Digitális toll
-
-Ez egy projeckt ahol bemutatom a digitális tollat.
-
 
 <InkCanvas Name="myInkCanvas" MouseRightButtonUp="RightMouseUpHandler">
   private void RightMouseUpHandler(object sender, 
