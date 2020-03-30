@@ -5,7 +5,7 @@ Ez egy projeckt ahol bemutatom a digitális tollat.
 
 
 <InkCanvas Name="myInkCanvas" MouseRightButtonUp="RightMouseUpHandler">
-  rivate void RightMouseUpHandler(object sender, 
+  private void RightMouseUpHandler(object sender, 
                                  System.Windows.Input.MouseButtonEventArgs e)
 {
     Matrix m = new Matrix();
